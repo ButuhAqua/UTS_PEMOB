@@ -37,11 +37,11 @@ Mempermudah pengguna dalam menemukan lokasi dan informasi detail mengenai tempat
 ## Flow Diagram
 - **Proses:**
 
-    1. Pengguna membuka aplikasi
-    2. Sistem menampilkan maps bagian desa Panongan
-    3. Pengguna dapat melihat maps bagian desa Panongan
-    4. Sistem menampilkan deskripsi lokasi atau tempat di desa Panongan
-    5. Pengguna dapat melihat deskripsi lokasi atau tempat di desa Panongan
+1. Pengguna membuka aplikasi
+2. Sistem menampilkan maps bagian desa Panongan
+3. Pengguna dapat melihat maps bagian desa Panongan
+4. Sistem menampilkan deskripsi lokasi atau tempat di desa Panongan
+5. Pengguna dapat melihat deskripsi lokasi atau tempat di desa Panongan
 
 ![Process Flow Mobile App SIG Desa Panongan](assets/images/flow_diagram.png)
 
@@ -55,5 +55,5 @@ Mempermudah pengguna dalam menemukan lokasi dan informasi detail mengenai tempat
 
 - latlong2
     - Paket yang menyediakan tipe data dan fungsi untuk bekerja dengan titik koordinat geografis, yaitu latitude (garis lintang) dan longitude (garis bujur).
-    
+
 Package flutter_map dan latlong2 sering digunakan bersama untuk menentukan lokasi titik pada peta dan melakukan perhitungan terkait jarak dan arah.
